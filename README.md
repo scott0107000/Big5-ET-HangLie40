@@ -16,7 +16,7 @@
 
 ## 授權條款
 
-此字型是基於 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 授權條款公開發布。關於授權合約的詳細內容，請詳讀授權文件檔（OFL.txt）。
+此字型是基於 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 授權條款公開發布。關於授權合約的詳細內容，請詳讀授權文件檔[（OFL.txt）](https://github.com/scott0107000/Big5-ET-HangLie40/raw/main/OFL.txt)。
 
 ## 用途
 
@@ -32,4 +32,4 @@
 
 ## 鳴謝
 
-- 以[思源黑體](https://github.com/scott0107000/BoutiqueBitmap7x7)提供的字符作為設計藍本。
+- 以[思源黑體](https://github.com/adobe-fonts/source-han-sans/tree/release)提供的字符作為設計藍本。
