@@ -28,7 +28,7 @@
 
 ## 延申閱讀——那些符號是什麼
 
-[https://twitter.com/scott0107000/status/1590034479158284289](https://twitter.com/scott0107000/status/1590034479158284289)
+[https://luke036.blogspot.com/2022/11/Eten-array40.html](https://luke036.blogspot.com/2022/11/Eten-array40.html)
 
 ## 鳴謝
 
